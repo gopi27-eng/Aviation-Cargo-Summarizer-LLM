@@ -15,4 +15,9 @@ Drawing from my **5 years of experience in Aviation Security**, I applied this m
 ### 🚀 How to Run
 1. Clone the repo: `git clone [Your-Link-Here]`
 2. Install requirements: `pip install -r requirements.txt`
-3. Run the application: `python app.py` 
+3. Run the application: `python app.py`
+   
+### 📊 Sample Output
+**Input Text:** "At Quikjet Cargo Airlines, all international shipments must undergo a dual-layer screening process..."
+
+**Model Summary:** "Quikjet Cargo Airlines has a dual-layer screening process for international shipments."
