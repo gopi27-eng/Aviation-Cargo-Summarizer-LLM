@@ -13,7 +13,7 @@ Drawing from my **5 years of experience in Aviation Security**, I applied this m
 - **Tooling:** Developed using **Vibe Coding** principles in Cursor AI
 
 ### 🚀 How to Run
-1. Clone the repo: `git clone [Your-Link-Here]`
+1. Clone the repo: https://github.com/gopi27-eng/Aviation-Cargo-Summarizer-LLM
 2. Install requirements: `pip install -r requirements.txt`
 3. Run the application: `python app.py`
    
